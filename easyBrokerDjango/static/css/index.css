@@ -1,0 +1,14 @@
+
+body {
+    background-color: #f1f1f1;
+}
+
+.contenedor {
+    margin: auto;
+    padding: 20px 20px;
+}
+
+.link {
+    color: peru;
+    text-decoration: none;
+}
